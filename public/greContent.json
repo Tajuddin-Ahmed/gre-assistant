@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Gre Math",
+        "content":"Even if you aren’t a math genius, better GRE scores and the best graduate schools are within your grasp!",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e9n9FbzOOOVX33bvjbv_k-T3M5ND_omcvg&usqp=CAU"
+    },
+    {
+        "id":2,
+        "name":"Gre Verbal",
+        "content":"For many grad school applicants, earning an impressive GRE Verbal score is essential for gaining acceptance to their target programs,",
+        "img":"https://www.indiaeducation.net/imagesvr_ce/9648/gre-vr.png"
+    },
+    {
+        "id":3,
+        "name":"Gre Analytical Writing",
+        "content":"Everything you need to know about the GRE, plus study tips and free resources. The perfect companion to your Magoosh GRE prep course",
+        "img":"https://www.indiaeducation.net/imagesvr_ce/9589/gre-awa.png"
+    },
+    {
+        "id":4,
+        "name":"Gre Approach Strategy",
+        "content":"Preparation for the test will depend on the amount of time you have available and your personal preferences for how to prepare",
+        "img":"https://www.veritasprep.com/blog/wp-content/uploads/2016/02/GRE.jpg"
+    },
+    {
+        "id":5,
+        "name":"Gre Vocabulary",
+        "content":"It’s no secret that the Verbal Reasoning section of the GRE contains a myriad of challenging vocabulary words that are sure to confound even the most ardent logophiles (n. lover of words). But with so many words to learn, where should you begin?",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_baGcRBmy7DN69yuejsg6diGg8tKnru3g6A&usqp=CAU"
+    },
+    {
+        "id":6,
+        "name":"Gre Official guidance",
+        "content":"Education pays off with higher earnings and lower unemployment rates. Whether you are considering graduate, business or law school or still deciding what to do, take the one test accepted by thousands of schools worldwide. Start with the test that lets you show schools your best — the GRE® General Test.",
+        "img":"https://images-na.ssl-images-amazon.com/images/I/51Fn6YxKxVL._SX389_BO1,204,203,200_.jpg"
+    },
+    {
+        "id":7,
+        "name":"Gre Quantitative Comparison",
+        "content":"Quantitative Comparison is a type of question that appears in the GRE quant section. In this type of question, the test taker has to compare two quantities A and B and determine a relationship between which of the two is larger. Four answer options are presented to the test taker.",
+        "img":"https://slideplayer.com/9651020/31/images/slide_1.jpg"
+    },
+    {
+        "id":8,
+        "name":"Gre Reading Comprehension",
+        "content":"GRE Reading Comprehension is the most significant part of GRE Verbal Reasoning. In fact, there are 5-7 RC passages and 10-13 of these GRE Verbal question types in each of the two Verbal sections on the exam—meaning that RC questions will always take up roughly half of all Verbal questions on the exam",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJtlFnOQXCs1APtEQ1qL8ck-8Y4PeK1mASg&usqp=CAU"
+    },
+    {
+        "id":9,
+        "name":"Gre Sentence Equivalence",
+        "content":"Like Text Completion questions, Sentence Equivalence questions test the ability to reach a conclusion about how a passage should be completed on the basis of partial information, but to a greater extent they focus on the meaning of the completed whole",
+        "img":"https://cdn.admissiontable.com/wp-content/uploads/gre_sentence_equivalence.png"
+    },
+    {
+        "id":10,
+        "name":"Gre Time Management",
+        "content":"This requires you to distribute your time amongst your GRE verbal section in the following manner: One-Blank Text Completions – 40 seconds. ... Short Reading Passage (including time to read the given passage) – 1:45 minutes. Long Reading Passage (including time to read the given passage) – 3:00 minutes.",
+        "img":"https://www.vibrantpublishers.com/wp-content/uploads/2019/12/mpho-mojapelo-I84vGUYGUtQ-unsplash-768x512-1.jpg"
+    }
+]
